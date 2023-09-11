@@ -31,9 +31,4 @@ You can make an unordered list by using either of the following - * or +.
 
 
 
-
-
-
-
-
 [Back to Reading Notes](/README.md)
