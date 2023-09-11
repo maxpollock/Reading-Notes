@@ -2,19 +2,8 @@
 
 ### This page will include notes, thoughts and ideas that are generated during and after our daily classes
 
-## Class 01 - Growth Mindset
+## About Me:
+My name is Max, I am 24 years old. I have a background working for the Civil Service. I am now going through a career change and I am pursuing a career in Web Development. I have been teaching myself all things HTML and CSS for the last 6 months, and I am now embarking on the Tech Educators Full-stack skills bootcamp course.
 
-A ***growth mindset*** believe's that our fundamental abilities can be developed through perseverance and effort. Regardless of existing intelligence and talent. 
-
-A growth mindset is in contrast to a ***fixed mindset*** where talent and intelligence is seen as fixed and that success comes from both of these - rather than through development and effort.
-
-A ***growth mindset*** can be helpful when faced with the following, in both work and life:
-- Tackling Challenges
-- Overcoming Obstacles
-- Giving Maximum Effort
-- Facing Criticism
-
-Three important reminders to myself to keep a growth mindset:
-1. How would tomorrow me feel knowing what I am doing now?
-1. Others achievments are a source of motivation, not hinderance.
-2. Failure shouldn't be feared, but encouraged.
+## **Class and Notes Index:**
+- [Class 01](https://maxpollock.github.io/Reading-Notes/Class-01.com)
