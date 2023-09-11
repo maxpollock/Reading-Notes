@@ -14,3 +14,5 @@ Three important reminders to myself to keep a growth mindset:
 1. How would tomorrow me feel knowing what I am doing now?
 1. Others achievments are a source of motivation, not hinderance.
 2. Failure shouldn't be feared, but encouraged.
+
+[Back to Reading Notes](/README.md)
