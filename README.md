@@ -7,3 +7,5 @@ My name is Max Pollock, I am 24 years old. I have a background working for the C
 
 ## **Class, Reading and Notes Index:**
 - [Class 01](/Class-01.md)
+- [Class 02](/Class-02.md)
+  - [Read 02](/Read-02.md)
