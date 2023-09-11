@@ -1,4 +1,4 @@
-#**Reading Notes**
+# **Reading Notes**
 
 ### This page will include notes, thoughts and ideas that are generated during and after our daily classes. As well as, notes from pre and post Reading on topics.
 
