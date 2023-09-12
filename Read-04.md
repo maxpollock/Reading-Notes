@@ -23,3 +23,5 @@ An Attribute contains extra information that you don't want to include in the ac
 ## What is a semantic element?
 
 A semantic element includes <article> or <main>. These are structuring elements that we use to denote where things go for better organisation of our webpages.
+
+[Back to Reading Notes](/README.md)
