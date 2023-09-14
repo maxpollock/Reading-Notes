@@ -23,3 +23,5 @@ This allows you to assign values to variables. The most common one is =.
 
 ## What is information received from the user called?
 Information recieved from the user is called 'Input'. This is typically done through Prompt or Confirm. This allows the web user to input their own words/numbers or click Ok or Cancel on a button. These inputs are then feeded back and can be used to manipulate further parts of the website.
+
+[Back to Reading Notes](/README.md)
